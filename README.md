@@ -43,9 +43,9 @@
 - Types d'entreprises : Studios de développement de jeux vidéo, entreprises spécialisées dans le divertissement numérique.
 - Exemple d'entreprise : Ubisoft Montréal.
 
-![Nom de l'entreprise](entreprise.jpg)
+![Ubisoft]<img width="417" height="277" alt="OIP" src="https://github.com/user-attachments/assets/1a871b57-5626-4dfe-b854-b8ec15e4d490" />
 
-(source de l'image : ...)
+(source de l'image : https://www.bing.com/images/search?view=detailV2&ccid=6T63ckgU&id=EAFA03EFF72F30FFD165E5BFCB891C70151BBED2&thid=OIP.6T63ckgUpEC3Ftda6VkmVwHaE8&mediaurl=https%3a%2f%2fwww.journaldugeek.com%2fapp%2fuploads%2f2024%2f08%2fubisoft-licenciements.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e93eb7724814a440b716d75ae9592657%3frik%3d0r4bFXAcicu%252f5Q%26pid%3dImgRaw%26r%3d0&exph=1000&expw=1500&q=ubisoft+no+copyright&FORM=IRPRST&ck=CCE00D3AB9DFE9F1CBA0B5BFF7D9BD6C&selectedIndex=10&itb=0)
 
 - Types de produits et de services : jeux-vidéo, logiciels et art numérique.
 - Étapes de production :
